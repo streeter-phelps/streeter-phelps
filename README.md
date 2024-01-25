@@ -34,7 +34,7 @@ I'm a passionate researcher with a strong enthusiasm in GIS, Remote Sensing, Mac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirenbista&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=streeter-phelps&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ## 🛠️ Projects
