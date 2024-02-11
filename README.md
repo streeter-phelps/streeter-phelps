@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate researcher with a strong enthusiasm in GIS, Remote Sensing, Machine Learning and Data Science. My goal is to turn raw data into meaningful insights and actionable decisions.
+I'm a passionate researcher with a strong enthusiasm for GIS, Remote Sensing, Machine Learning, and Data Science. My goal is to turn raw data into meaningful insights and actionable decisions.
 
 ## 🛠️ Skills
 
