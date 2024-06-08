@@ -17,13 +17,13 @@ I'm a passionate researcher with a strong enthusiasm for GIS, Remote Sensing, Ma
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python
 - **Data Manipulation:** Pandas, NumPy, Excel
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Ggplot2
 - **Machine Learning:** Scikit-Learn (Beginner)
 - **Statistical Analysis:** Regression analysis, EDA, PCA, ANOVA, Chi-square test, t-test
 - **Tools:** Google Colab, Jupyter Lab, R Studio, Linux
-- **GIS:** ArcGIS, QGIS, Google Earth Engine, Geopandas, Folium, Geemap
+- **GIS:** ArcGIS, QGIS, Google Earth Engine, Geopandas, Folium
 
 ## 🌱 Currently Learning
 
