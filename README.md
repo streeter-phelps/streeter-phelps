@@ -5,10 +5,9 @@
 I am a geospatial analyst with a foundation in environmental science, specializing in translating complex spatial data into actionable insights. My expertise spans enterprise geodatabase management, remote sensing, and automating QA/QC workflows with Python.
 
 ## 🌍 About Me
-* 🎓 **Education:** Pursuing an M.S. in Geography (GIS Certificate & Data Analytics) at the University of North Texas. I also hold a B.S. in Environmental Science from Kathmandu University.
-* 💼 **Experience:** Recently served as a GIS Intern for the City of Keller, maintaining an ArcGIS Enterprise SDE geodatabase and automating data extraction workflows that reduced manual QA time by ~60%.
-* 🔬 **Current Work:** Serving as a Graduate Teaching Assistant at UNT, mentoring 350+ students in spatial analysis, Python scripting, and machine learning-based image classification.
-* ⚡ **Focus Areas:** Environmental geospatial modeling, linear utility infrastructure, and data visualization.
+* 🎓 **Education:** Graduated with an M.S. in Geography (GIS Certificate & Data Analytics) at the University of North Texas. I also hold a B.S. in Environmental Science from Kathmandu University.
+* 💼 **Experience:** Recently served as a GIS Intern for the City of Keller, maintaining an ArcGIS Enterprise SDE geodatabase and automating data extraction workflows that reduced manual QA time by ~60%. Served as a Graduate Teaching Assistant at UNT, mentoring 350+ students in spatial analysis, Python scripting, and machine learning-based image classification.
+* ⚡ **Focus Areas:** Geospatial Solutions and modeling, Enterprise GIS, Utility Infrastructure, GIS Programming & Automation, GeoAI & Remote Sensing, Machine Learning, Data visualization.
 
 ## 🛠️ Tech Stack & Tools
 
