@@ -11,26 +11,68 @@ I am a geospatial analyst with a foundation in environmental science, specializi
 
 ## 🛠️ Tech Stack & Tools
 
-**GIS & Remote Sensing**
-![ArcGIS](https://img.shields.io/badge/ArcGIS-00457C?style=for-the-badge&logo=arcgis&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-000000?style=for-the-badge&logo=google&logoColor=white)
+**Esri Ecosystem**
 
-**Programming & Data Management**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=flat-square&logo=arcgis&logoColor=white)
+![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS_Enterprise-005A9C?style=flat-square&logo=arcgis&logoColor=white)
+![ArcGIS Online](https://img.shields.io/badge/ArcGIS_Online-2E8B57?style=flat-square&logo=arcgis&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards-1D4E89?style=flat-square)
+![Experience Builder](https://img.shields.io/badge/Experience_Builder-1D4E89?style=flat-square)
+![Survey123](https://img.shields.io/badge/Survey123-1D4E89?style=flat-square)
+![Field Maps](https://img.shields.io/badge/Field_Maps-1D4E89?style=flat-square)
 
-**Data Visualization & Reporting**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Programming & Automation**
 
-## 🚀 Featured Projects
-* **Floodwater Mapping & Depth Estimation:** Developed an automated processing pipeline using Sentinel-1 SAR imagery and machine learning classifiers (RF, SVM, XGBoost) to extract surface water masks.
-* **Vehicle Delivery Routes Optimization:** Modeled optimal logistics networks using ArcGIS Network Analyst to minimize travel time and emissions for field crews.
-* **Land Cover Classification:** Mapped vegetation decline and urban expansion using multi-temporal Landsat 8 imagery and Maximum Likelihood Classification.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ArcPy](https://img.shields.io/badge/ArcPy-3776AB?style=flat-square)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Arcade](https://img.shields.io/badge/Arcade-005A9C?style=flat-square)
+![ModelBuilder](https://img.shields.io/badge/ModelBuilder-0079C1?style=flat-square)
+
+**Data & Analysis**
+
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+
+**Field & Sensors**
+
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-2E7D32?style=flat-square)
+![LiDAR](https://img.shields.io/badge/LiDAR-455A64?style=flat-square)
+![UAS/Drone](https://img.shields.io/badge/UAS%2FDrone-455A64?style=flat-square)
+![GPS/GNSS](https://img.shields.io/badge/GPS%2FGNSS-455A64?style=flat-square)
+
+---
+
+## Featured Work
+
+**[Land Cover Classification and Vegetation Change — Austin, TX](https://github.com/hirenbista/austin-landcover-change)**
+Multi-temporal Landsat 8 classification (MLC, 75% OA, Kappa 0.66) with NDVI, EVI, and SAVI change detection from 2015 to 2024, quantifying 29.78% Developed Medium Intensity expansion against vegetation decline.
+
+**[Hurricane Milton Risk Mapping and Emergency Preparedness](https://github.com/hirenbista/hurricane-milton-risk)**
+Interactive ArcGIS Dashboards and Experience Builder apps for at-risk zone monitoring, infrastructure exposure, and evacuation resource tracking for disaster response decision-making.
+
+**[3D Building Extraction from LiDAR](https://github.com/hirenbista/lidar-building-extraction)**
+Point cloud classification into ground, noise, and building points to generate high-resolution DSM and DEM. Extracted 2D footprints and 3D multipatch models using ArcGIS 3D Analyst for urban planning and viewshed analysis.
+
+**[Fraud Detection in Financial Transactions](https://github.com/hirenbista/fraud-detection-ml)**
+End-to-end fraud detection pipeline with XGBoost, SMOTE for class imbalance, threshold tuning to optimize Recall and ROC-AUC, and SHAP analysis for transparent, deployment-ready decision-making.
+
+**[Predictive Analytics for Nonprofit Fundraising](https://github.com/hirenbista/nonprofit-fundraising-ml)**
+Two-stage ML pipeline combining classification models (Logistic Regression, KNN, Random Forest) for donor likelihood and regression models for donation amount within an expected-profit framework.
+
+**[Habitat Suitability Analysis, Navarro River Watershed](https://github.com/hirenbista/marbled-murrelet-habitat)**
+DEM-derived slope, aspect, and hillshade analysis in ArcGIS Pro to model marbled murrelet nesting habitat combined with old-growth forest cover data.
+
+---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirenbista/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirenbista@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white)](https://storymaps.arcgis.com/stories/9df3006919124d67af5e36aca5459b52)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirenbista/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hirenbista@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googleearth&logoColor=white)](https://arcg.is/fCiGa)
