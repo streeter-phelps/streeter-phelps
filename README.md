@@ -51,22 +51,22 @@ I am a geospatial analyst with a foundation in environmental science, specializi
 
 ## Featured Work
 
-**[Land Cover Classification and Vegetation Change — Austin, TX](https://github.com/hirenbista/austin-landcover-change)**
+**[Land Cover Classification and Vegetation Change — Austin, TX](https://arcg.is/1XOvH12)**
 Multi-temporal Landsat 8 classification (MLC, 75% OA, Kappa 0.66) with NDVI, EVI, and SAVI change detection from 2015 to 2024, quantifying 29.78% Developed Medium Intensity expansion against vegetation decline.
 
-**[Hurricane Milton Risk Mapping and Emergency Preparedness](https://github.com/hirenbista/hurricane-milton-risk)**
+**[Hurricane Milton Risk Mapping and Emergency Preparedness](https://arcg.is/a0m8f)**
 Interactive ArcGIS Dashboards and Experience Builder apps for at-risk zone monitoring, infrastructure exposure, and evacuation resource tracking for disaster response decision-making.
 
-**[3D Building Extraction from LiDAR](https://github.com/hirenbista/lidar-building-extraction)**
+**[3D Building Extraction from LiDAR](https://arcg.is/0WyKmq0)**
 Point cloud classification into ground, noise, and building points to generate high-resolution DSM and DEM. Extracted 2D footprints and 3D multipatch models using ArcGIS 3D Analyst for urban planning and viewshed analysis.
 
-**[Fraud Detection in Financial Transactions](https://github.com/hirenbista/fraud-detection-ml)**
+**[Fraud Detection in Financial Transactions](https://github.com/streeter-phelps/Fraud-Detection-in-Financial-Transactions)**
 End-to-end fraud detection pipeline with XGBoost, SMOTE for class imbalance, threshold tuning to optimize Recall and ROC-AUC, and SHAP analysis for transparent, deployment-ready decision-making.
 
-**[Predictive Analytics for Nonprofit Fundraising](https://github.com/hirenbista/nonprofit-fundraising-ml)**
+**[Predictive Analytics for Nonprofit Fundraising](https://github.com/streeter-phelps/Fundraising-Strategy-with-Predictive-Analytics)**
 Two-stage ML pipeline combining classification models (Logistic Regression, KNN, Random Forest) for donor likelihood and regression models for donation amount within an expected-profit framework.
 
-**[Habitat Suitability Analysis, Navarro River Watershed](https://github.com/hirenbista/marbled-murrelet-habitat)**
+**[Habitat Suitability Analysis, Navarro River Watershed](https://arcg.is/1HCqmP2)**
 DEM-derived slope, aspect, and hillshade analysis in ArcGIS Pro to model marbled murrelet nesting habitat combined with old-growth forest cover data.
 
 ---
